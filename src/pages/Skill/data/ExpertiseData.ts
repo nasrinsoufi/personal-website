@@ -25,13 +25,13 @@ export const ExpertiseData: Expertise[] = [
       "Tailwind CSS",
       "Storybook",
       "Jest",
-      "Asp.net",
+      "ASP.NETCore",
       
     ],
   },
   {
     id: 3,
     name: "general",
-    items: ["Git", "Scrum", "REST API", "Figma", "Docker"],
+    items: ["Git", "Scrum", "REST API", "Figma", "Docker","Redis","RabbitMQ"],
   },
 ];

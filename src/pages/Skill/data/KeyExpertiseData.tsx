@@ -10,7 +10,7 @@ export const KeyExpertiseData: KeyExpertiseDataType[] = [
     id: 0,
     title: (
       <>
-        Experienced with <strong>React</strong>, <strong>TypeScript</strong> and{" "}
+        Experienced with <strong>ASP.NETCore</strong>, <strong>React</strong>, <strong>TypeScript</strong> and{" "}
         <strong>HTML5, CSS3, JS</strong>
       </>
     ),
@@ -27,7 +27,7 @@ export const KeyExpertiseData: KeyExpertiseDataType[] = [
     id: 2,
     title: (
       <>
-        Familiar with <strong>Design Patterns</strong> and{" "}
+        <strong>Design Patterns</strong> and{" "}
         <strong>Clean Code</strong>
       </>
     ),

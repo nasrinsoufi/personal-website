@@ -13,7 +13,7 @@ const LetsTalk = () => {
         <Styled.Description>
           Ready to elevate your web presence?
           <div />
-          As a front-end developer, I turn ideas into seamless, user-friendly designs.
+          As a full-stack developer, I turn ideas into seamless, user-friendly designs.
           <div /> Let’s create something amazing together!
         </Styled.Description>
       </Styled.TextContainer>

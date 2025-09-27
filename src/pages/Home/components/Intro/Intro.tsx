@@ -10,13 +10,13 @@ const Intro = () => {
       <Styled.Title>
         Hello!
         <div /> I’m Nasrin Soufi,
-        <div /> a Front End Developer.
+        <div /> a Full-Stack Developer.
       </Styled.Title>
       <Styled.Description>
-      I am a passionate Front-End Developer specializing in building user-friendly, responsive,
-      and modern web applications. Proficient in React and Next.js,
-      I enjoy transforming complex ideas into seamless digital experiences. 
-      I am dedicated to continuous learning and staying updated with the latest technologies to deliver high-quality solutions.
+      I’m a Full Stack Developer with over three years of experience building responsive web applications.
+      Skilled in React, Next.js, TypeScript, ASP.NET Core, and SQL Server,
+      I create end-to-end solutions that combine clean front-end design with robust back-end functionality.
+      My focus is on writing scalable, efficient code and leveraging modern technologies to deliver high-quality applications.
       </Styled.Description>
 
       <HashLink to="/#skill" smooth style={{ textDecoration: "none" }}>
