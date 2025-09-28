@@ -1,13 +1,13 @@
 import styled from "@emotion/styled";
 import { MuiEmotion } from "core/types/MuiEmotion";
-import wave from "assets/images/wave.svg";
+//import wave from "assets/images/wave.svg";
 import ScreenContainer from "core/components/ScreenContainer";
 import Button from "core/components/Button";
 
 export const Container = styled(ScreenContainer)<MuiEmotion>`
   padding: 0;
   height: 100vh;
-  background-image: url(${wave});
+  
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #8be3e3;
